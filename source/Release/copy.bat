@@ -1,0 +1,1 @@
+copy /Y "C:\Users\Rafal\Documents\Visual Studio 2010\Projects\Gamer_ZsPawnPreProcessor\Release\Gamer_ZsPawnPreProcessor.exe" "C:\Users\Rafal\Pliki\samp03 dsvr_win32\pawno\pawncc.exe" 
